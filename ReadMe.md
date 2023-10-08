@@ -1,3 +1,5 @@
+![Architecture](Arch.png)
+
 ### Problem-1
 
 while connecting Confluent Kafka (which is installed in windows using WSL), when I tried to connect to the Kafka Broker 
